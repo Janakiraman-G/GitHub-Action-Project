@@ -6,7 +6,7 @@ This project demonstrates an end-to-end CI/CD pipeline using GitHub Actions to b
 
 The infrastructure is provisioned using Terraform, while GitHub Actions automates the application build, security checks, code-quality analysis, Docker image creation, and deployment workflow.
 
-The main goal of this project was to gain practical experience in implementing a **DevOps CI/CD workflow using GitHub Actions, Docker, Kubernetes, AWS EKS, Terraform, SonarQube, and Trivy.
+The main goal of this project was to gain practical experience in implementing a DevOps CI/CD workflow using GitHub Actions, Docker, Kubernetes, AWS EKS, Terraform, SonarQube, and Trivy.
 
 ---
 

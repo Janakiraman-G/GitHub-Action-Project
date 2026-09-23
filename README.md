@@ -12,7 +12,7 @@ The main goal of this project was to gain practical experience in implementing a
 
 🏗️ Architecture
 
-"
+
                     Developer
                        │
                        │ git push

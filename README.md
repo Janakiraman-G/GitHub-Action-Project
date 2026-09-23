@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-This project demonstrates an end-to-end CI/CD pipeline using GitHub Actions** to build, analyze, containerize, and deploy a web application to **Amazon EKS (Elastic Kubernetes Service)**.
+This project demonstrates an end-to-end CI/CD pipeline using GitHub Actions** to build, analyze, containerize, and deploy a web application to **Amazon EKS (Elastic Kubernetes Service).
 
 The infrastructure is provisioned using Terraform, while GitHub Actions automates the application build, security checks, code-quality analysis, Docker image creation, and deployment workflow.
 
